@@ -155,3 +155,4 @@ const notas = [
     año: "cuarto",
   },
 ];
+export default notas;
